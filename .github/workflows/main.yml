@@ -2,7 +2,7 @@ name: GLaDOS Daily Checkin
 
 on:
   schedule:
-    - cron: '30 16 * * *'          # 每天 UTC 16:30（北京时间 0:30）
+    - cron: '23 16 * * *'          # 每天 UTC 16:30（北京时间 0:30）
   workflow_dispatch:             # 支持手动触发
 
 jobs:
