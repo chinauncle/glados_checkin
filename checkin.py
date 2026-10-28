@@ -18,6 +18,7 @@ REFERER     = "https://glados.cloud/console/checkin"
 SUCCESS_KEYWORDS = [
     "Checkin! Got",                             # 成功获得点数
     "Checkin Repeats! Please Try Tomorrow",     # 今天已签到
+    "Today's observation logged. Return tomorrow for more points.", #新版今天已签到
 ]
 
 
